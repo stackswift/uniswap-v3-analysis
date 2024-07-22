@@ -4,7 +4,7 @@ This repository contains an analysis of the `swap` function from the Uniswap V3 
 
 ## Contents
 
-- [Uniswap_V3_Swap_Function_Analysis.md](Uniswap_V3_Swap_Function_Analysis.md): Detailed analysis of the `swap` function.
+- [Uniswap_V3_Swap_Function_Analysis.md](Uniswap_V3_Swap_Function_Analysis.md.): Detailed analysis of the `swap` function.
 
 ## Overview
 
